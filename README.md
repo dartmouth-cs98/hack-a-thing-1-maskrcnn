@@ -1,7 +1,7 @@
 # hack-a-thing-1-maskrcnn
 hack-a-thing-1-maskrcnn created by GitHub Classroom
 
-MaskRCNN found a microwave on the basketball hoop (see 'poor object detection-min.jpg'). Ive never been happier.
+MaskRCNN found a microwave on the basketball hoop (see 'object detection 3.jpg'). Ive never been happier.
 
 
 
